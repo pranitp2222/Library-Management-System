@@ -1,0 +1,214 @@
+
+ #addbookbtn{
+    -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 20;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+ #delbookbtn{
+    -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 20;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+    -fx-padding: 10 20 10 20;
+}
+
+#updatebook{
+	 -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 20;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 11px;
+    -fx-padding: 10 10 10 10;
+}
+
+#updatebook1{
+	 -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 20;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 11px;
+    -fx-padding: 10 10 10 10;
+}
+
+#logoutbtn{
+    -fx-background-color: 
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#395cab, #223768);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#availBook_btn{
+	-fx-background-color: #941823;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#issuebook_btn{
+	-fx-background-color: #941823;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#returnBook_btn{
+	-fx-background-color: #941823;
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#logout_btn{
+    -fx-background-color: 
+        linear-gradient(#7ebcea, #2f4b8f),
+        linear-gradient(#426ab7, #263e75),
+        linear-gradient(#395cab, #223768);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#issuebbtn{
+	-fx-background-color: #68daff;
+    -fx-background-radius: 10;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-padding: 10 20 10 20;
+}
+
+#issueclear{
+	-fx-background-color: #eeaeca;
+    -fx-background-radius: 10;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 16px;
+    -fx-padding: 10 20 10 20;
+    
+}
+
+#ibookName{
+	-fx-background-color: #eeaeca;
+    -fx-background-radius: 5;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+#ibookAuthor{
+	-fx-background-color: #eeaeca;
+    -fx-background-radius: 5;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+#ibookCode{
+	-fx-background-color: #eeaeca;
+    -fx-background-radius: 5;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+#ibookDate{
+	-fx-background-color: #eeaeca;
+    -fx-background-radius: 5;
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+}
+
+#bookreturn{
+	 -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#lmshead{
+	
+	-fx-background-color: radial-gradient(center 50% 50% , radius 100% , #fbd5e6, #68daff);   
+    -fx-background-radius: 5;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 24px;
+    
+}
+
+#mainachor{
+	-fx-background-image:
+        url("lib.jpg");
+    -fx-background-size: 100%;
+      
+}
+
+#signanchor{
+	-fx-background-image:
+        url("lib2.jpg");
+    -fx-background-size: stretch;
+}
+
+#adminanc{
+	-fx-background-image:
+        url("lib5.jpg");
+    -fx-background-size: stretch;
+}
+
+#dashanc{
+	-fx-background-image:
+        url("lib3.jpg");
+    -fx-background-size: stretch;
+}
